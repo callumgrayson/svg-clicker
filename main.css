@@ -1,0 +1,9 @@
+body {
+  display: block;
+}
+
+.container {
+  margin: auto;
+  padding: auto;
+  max-width: 420px;
+}
